@@ -12,4 +12,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 15
 >>> print('sum of ',x,' and ',y,' is : ',z)
 sum of  5  and  10  is :  15
-//>>> 
+//>>>
+I am new line
+whatsup
